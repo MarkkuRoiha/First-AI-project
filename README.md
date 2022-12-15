@@ -45,7 +45,7 @@ E.g.
 ... tbd
 
 Below picture just as an example of the graph presenting the EV production in the country. Source www.fingrid.fi.
-![graph representing EV production. Source www.fingrid.fi](https://github.com/MarkkuRoiha/First-AI-project/blob/main/Screenshot%202022-12-15%20133508.png, width="300")
+![graph representing EV production. Source www.fingrid.fi]("https://github.com/MarkkuRoiha/First-AI-project/blob/main/Screenshot%202022-12-15%20133508.png", width="300")
 
 ## Challenges
 
