@@ -44,6 +44,7 @@ E.g.
 - past weather and national solar energy production information (past data, for teaching and testing the model)
 ... tbd
 
+![graph representing EV production. Source www.fingrid.fi](/Screenshot 2022-12-15 133508.jpg)
 
 ## Challenges
 
